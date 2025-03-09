@@ -1,6 +1,7 @@
 ﻿## Encryption-tool
 A simple Python GUl for encrypting and decrypting messages.
-Features
+
+## Features
 • Encrypt and decrypt text using a shift cipher.
 • Save and load encrypted messages from a file.
 
@@ -13,6 +14,7 @@ Features
    
 ## Usage
 • Enter the text you want to encrypt or decrypt in the input field.
+
 • Set the shift value for the cipher.
 • Click "Encrypt" or "Decrypt" to process the text.
 • Use the "Save" and "Load" buttons to store an
